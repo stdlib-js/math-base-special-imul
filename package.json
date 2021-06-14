@@ -1,6 +1,6 @@
 {
   "name": "@stdlib/math-base-special-imul",
-  "version": "0.0.1-alpha.2",
+  "version": "0.0.1",
   "description": "Perform C-like multiplication of two signed 32-bit integers.",
   "license": "Apache-2.0",
   "author": {
