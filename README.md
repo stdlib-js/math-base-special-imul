@@ -1,3 +1,11 @@
+## Attention
+
+:warning: **This package has been renamed. Use [@stdlib/math-base-ops-imul](https://github.com/stdlib-js/math-base-ops-imul) instead.** :warning:
+
+<br>
+
+* * *
+
 <!--
 
 @license Apache-2.0
